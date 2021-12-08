@@ -13,3 +13,7 @@ buildNumber.properties
 
 node_modules
 webpack.generated.js
+frontend/generated
+frontend/index.html
+tsconfig.json
+pnpmfile.js
